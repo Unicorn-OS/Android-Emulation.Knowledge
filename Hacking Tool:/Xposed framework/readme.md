@@ -8,6 +8,9 @@ https://github.com/LSPosed/LSPosed
 # Guide:
 https://www.lifewire.com/xposed-framework-4148451
 
+# relation:
+- https://www.cydiasubstrate.com/id/34058d37-3198-414f-a696-73e97e0a80db/
+
 # other
 https://mas.owasp.org/MASTG/tools/android/MASTG-TOOL-0027/
 
