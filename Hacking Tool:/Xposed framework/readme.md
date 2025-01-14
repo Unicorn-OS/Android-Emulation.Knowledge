@@ -9,6 +9,9 @@ https://lsposed.org/
 # Guide:
 https://www.lifewire.com/xposed-framework-4148451
 
+# Discuss:
+https://xdaforums.com/f/xposed-general.3094/
+
 # relation:
 - https://www.cydiasubstrate.com/id/34058d37-3198-414f-a696-73e97e0a80db/
 
