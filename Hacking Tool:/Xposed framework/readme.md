@@ -23,3 +23,5 @@ relation:
 
 # Install()
 https://www.reddit.com/r/androidroot/comments/17og97c/need_help_with_xposed_framework/
+
+https://www.google.com/search?q=Xposed+Framework+Android+14
