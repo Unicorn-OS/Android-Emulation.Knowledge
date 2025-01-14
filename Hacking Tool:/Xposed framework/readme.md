@@ -6,6 +6,9 @@ sch:
 https://github.com/LSPosed/LSPosed
 https://lsposed.org/
 
+## successor: EdXposed
+https://xdaforums.com/t/official-edxposed-the-successor-of-xposed-oreo-pie-q-r-2020-07-19.4070199/
+
 # Guide:
 https://www.lifewire.com/xposed-framework-4148451
 
