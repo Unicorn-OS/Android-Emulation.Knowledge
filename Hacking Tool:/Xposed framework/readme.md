@@ -16,3 +16,6 @@ https://mas.owasp.org/MASTG/tools/android/MASTG-TOOL-0027/
 
 relation:
 - https://xdaforums.com/t/hide-emulator-status.3174963/
+
+# Install()
+https://www.reddit.com/r/androidroot/comments/17og97c/need_help_with_xposed_framework/
