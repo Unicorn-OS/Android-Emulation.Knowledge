@@ -4,6 +4,7 @@ sch:
 
 # Home:
 https://github.com/LSPosed/LSPosed
+https://lsposed.org/
 
 # Guide:
 https://www.lifewire.com/xposed-framework-4148451
